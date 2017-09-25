@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.jsmath.com
+url: http://haifang.github.io
 date_format: "ordinal"
 title: 近思数学
 subtitle: "培养数学兴趣，锻炼数学思维"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: jsmath
 organization: jsmath.com
-organization_url: http://www.jsmath.com
+organization_url: http://haifang.github.io
 github_username: sqrtli
 location: Shanghai, China
 email: haifang.lee@gmail.com
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: Haifang/haifang.github.io
 
 # ---------------- #
 #      Comments    #
