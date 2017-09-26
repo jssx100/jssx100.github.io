@@ -1,32 +1,13 @@
----
-layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
-menu: 关于
-permalink: /about/
----
+**近思数学**--努力做一个数学科普平台。
 
-我是马壮，码而生，码而立。
+近思数学，名字来自母校的校训-- **博学而笃志，切问而近思**。近思，就是教我们要深入思考，这个也很符合学习数学的一种状态--多思考。
 
-仰慕「优雅编码的艺术」。
+我经常被身边的亲戚朋友问到，怎么样才能学好数学？我觉得学好数学主要有两点，一是兴趣，二是方法。因此我就打算做一个这样的数学科普平台，来增加大家对数学的兴趣，同时也介绍一些数学学习的方法。
 
-坚信熟能生巧，努力改变人生。
+现在是移动互联网时代，除了网站（www.jssx100.com），还申请了一个微信公众号，所有的内容都可以在网站或者微信公众号获取。欢迎扫码关注：
 
-## 联系
+![](D:\jssx100.github.io\images\about\jssx.png)
 
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
 
-## Skill Keywords
 
-{% for category in site.data.skills %}
-### {{ category.name }}
-<div class="btn-inline">
-{% for keyword in category.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+关于数学的知识，学习方法，以及一些例题的讨论，这些内容都仅供大家参考，如有不妥之处还请各位读者批评指正。
