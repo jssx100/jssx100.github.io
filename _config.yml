@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://haifang.github.io
+url: https://jssx100.github.io
 date_format: "ordinal"
 title: 近思数学
 subtitle: "培养数学兴趣，锻炼数学思维"
@@ -19,7 +19,7 @@ side_bar_repo_limit: 5
 author: jssx
 organization: jssx100.com
 organization_url: http://jssx100.com
-github_username: haifang
+github_username: jssx100
 location: Shanghai, China
 email: haifang.lee@gmail.com
 
