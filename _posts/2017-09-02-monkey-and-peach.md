@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 小学奥数-猴子分桃
-categories: [奥数]
-description: 奥数
+categories: [小学奥数]
+description: 小学奥数, 奥数
 keywords: 奥数, 猴子分桃
 ---
 
