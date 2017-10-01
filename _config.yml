@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://jssx100.github.io
+url: http://www.baidu.com
 date_format: "ordinal"
 title: 近思数学
 subtitle: "培养数学兴趣，锻炼数学思维"
